@@ -13,7 +13,8 @@
 
 ## Установка
 1. Копируем AutoExport.gms в папку %APPDATA%\Corel\CorelDRAW Graphics Suite X6\Draw\GMS\
-2. В настройках корела убираем галочку options - VBA - Delay Load VBA
+2. В настройках корела убираем галочку Options - VBA - Delay Load VBA
+Также рекомедуется отключить Background tasks в Options - Global
 
 ## Как использовать
 1. В макете (или шаблоне) создаём на мастер-странице в слое Guides (all pages) надпись типа artistic text,
